@@ -41,10 +41,10 @@ SEARCH_QUERIES = [
     "frontend developer remote",
     "frontend developer relocate",
     "Senior frontend developer remote",
-    "next",
-    "react",
-    "vue",
-    "nuxt"
+    "react developer remote",
+    "next developer remote",
+    "vue developer remote",
+    "nuxt developer remote"
 ]
 
 # ─── کلمات ممنوعه (Blacklist) ──────────────────────────────────────────────────
@@ -53,11 +53,28 @@ BLACKLIST_KEYWORDS = [
     "must reside in us",
     "must be located in the us",
     "must be based in",
-    "senior",
     "director",
     "agency",
     "full stack",
     "fullstack",
+    # موقعیت‌های ارشد
+"manager",
+"lead",
+"head of",
+"vp of",
+"vice president",
+
+# محدودیت جغرافیایی
+"uk only",
+"europe only", 
+"australia only",
+"must be based in",
+
+# نوع قرارداد نامناسب
+"unpaid",
+"internship",
+"volunteer",
+"commission only",
 ]
 
 # ══════════════════════════════════════════════════════════════════════════════
